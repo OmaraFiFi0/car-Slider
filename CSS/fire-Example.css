@@ -1,0 +1,10 @@
+img {
+  width: 100px;
+  position: absolute;
+}
+
+body {
+  /* cursor: pointer; */
+  background-color: black;
+  cursor: none;
+}
